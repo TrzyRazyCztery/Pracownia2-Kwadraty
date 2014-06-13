@@ -1,3 +1,6 @@
+-- ----------------------------------------------------------------------------------------------
+-- Pracownia oceniona na 17/20 czyli 85%
+-- pkt obniżone za użycie if a then True else False bo to to samo co a
 -- ---------------------------------------------------------------------------------------------
 --
 --                         Metody Programowania 2014 - Pracownia
